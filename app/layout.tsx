@@ -3,7 +3,7 @@ import React from 'react';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'React + Next.js + ShadcnUI',
+  title: 'Hello',
 };
 
 export default function RootLayout({
